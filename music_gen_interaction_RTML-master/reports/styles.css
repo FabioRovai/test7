@@ -1,0 +1,39 @@
+body {
+    //background-color: powderblue;
+    padding: 10px 256px;
+}
+h1 {
+    text-decoration: underline;
+}
+p {
+    //color: red;
+}
+
+div {
+    padding-bottom: 15px;
+}
+
+
+.model_name {
+    font-weight: bold;
+}
+
+.sample {
+    padding-left: 50px;
+}
+
+.original_sample {
+    border-right: dashed 3px black;
+    padding-right: 45px;
+}
+
+.ui-state-highlight { height: 3.0em; line-height: 1.2em; background-color: lightyellow; }
+
+.image {
+    display: none;
+    width: 350px;
+}
+.imageShow {
+    display: block;
+    width: 350px;
+}
